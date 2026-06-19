@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-hielo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Piel de hielo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-hielo/) |
+| **Get License** | [License this song: Piel de hielo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-hielo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bailando en la sombra, tu cuerpo es mi fuego
+> Me miras de lejos, empieza este juego
+> La noche está fría, tú eres mi consuelo
+> Derrites mi alma, mi piel de hielo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
