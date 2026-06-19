@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel de hielo
+
+This log tracks the cryptographic history and versioning for the song **Piel de hielo** (piel-de-hielo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T02:12:11.018931 | `v1` | `96a26c35f7760e3e47bcb58f884cb51b6e0e43c80ce80636e15a89b24197753f` | `c1a2d39bbd90e7e1f794f141f1181b5d0f5f15b6a627b25a0054c977fbe93801` | `2026-06-20_piel-de-hielo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
