@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Piel de 
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T02:12:11.018931 | `v1` | `96a26c35f7760e3e47bcb58f884cb51b6e0e43c80ce80636e15a89b24197753f` | `c1a2d39bbd90e7e1f794f141f1181b5d0f5f15b6a627b25a0054c977fbe93801` | `2026-06-20_piel-de-hielo-v1.txt` |
+| 2026-06-20T02:32:29.740870 | `v2` | `7673a1912e8c1c58b36694bd5fd7edc65bf421d4051f35ec01f49fd4b64b8db0` | `ce6f5dfe3643a7d15a937f39b65d7cf9a7f764f66cee4726abf1dc878f41e83b` | `2026-06-20_piel-de-hielo-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*

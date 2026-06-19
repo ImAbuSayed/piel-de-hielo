@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-hielo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Piel de hielo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-hielo/) |
+| **Get License** | [Secure Licensing Rights for Piel de hielo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-hielo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `96a26c35f7760e3e47bcb58f884cb51b6e0e43c80ce80636e15a89b24197753f` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `7673a1912e8c1c58b36694bd5fd7edc65bf421d4051f35ec01f49fd4b64b8db0` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

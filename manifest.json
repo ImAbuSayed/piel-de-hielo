@@ -13,11 +13,11 @@
   "apple_music_link": null,
   "website_link": null,
   "feature_image_url": null,
-  "sha256_hash": "96a26c35f7760e3e47bcb58f884cb51b6e0e43c80ce80636e15a89b24197753f",
-  "sha256_raw_hash": "c1a2d39bbd90e7e1f794f141f1181b5d0f5f15b6a627b25a0054c977fbe93801",
-  "lyric_version": 1,
-  "proof_timestamp": "2026-06-20T02:12:11.018931",
+  "sha256_hash": "7673a1912e8c1c58b36694bd5fd7edc65bf421d4051f35ec01f49fd4b64b8db0",
+  "sha256_raw_hash": "ce6f5dfe3643a7d15a937f39b65d7cf9a7f764f66cee4726abf1dc878f41e83b",
+  "lyric_version": 2,
+  "proof_timestamp": "2026-06-20T02:32:29.740870",
   "song_creation_date": null,
   "official_release_date": null,
-  "generated_at": "2026-06-19T20:13:38Z"
+  "generated_at": "2026-06-19T20:32:39Z"
 }
